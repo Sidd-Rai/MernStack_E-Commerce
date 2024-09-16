@@ -1,5 +1,5 @@
 {
-  "name": "Siddharth",
+  "name": "ZipKart",
   "version": "1.0.0",
   "description": "A E-commerce website.",
   "main": "app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hasan-py/MERN_Stack_Project_Siddharth_Ecommerce"
+    "url": "https://github.com/Sidd-Rai/MernStack_E-Commerce"
   },
-  "author": "Hasan | https://hasan-py.github.io",
+  "author": "Siddharth | https://github.com/Sidd-Rai/",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hasan-py/MERN_Stack_Project_Siddharth_Ecommerce/issues"
+    "url": "https://github.com/Sidd-Rai/MernStack_E-Commerce/issues"
   },
-  "homepage": "https://github.com/hasan-py/MERN_Stack_Project_Siddharth_Ecommerce#readme",
+  "homepage": "https://github.com/Sidd-Rai/MernStack_E-Commerce",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "braintree": "^3.0.0",
